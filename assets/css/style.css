@@ -135,6 +135,14 @@ a {
 
 }
 
+section.landing {
+  background: #000 url(../img/jesus-bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  font-size: 10px;
+}
+
 .yolo span {
   color: white;
   position: absolute;
@@ -166,7 +174,7 @@ a {
 
 .cuadro {
   background: rgba(0, 0, 0, 0.7);
-  margin-top: 110px;
+  margin-top: 140px;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -190,5 +198,6 @@ footer.redes img:hover {
 
 .redes {
   text-align: center;
-  margin-top: 40px;
+  margin-top: 60px;
+  padding-bottom: 50px;
 }
