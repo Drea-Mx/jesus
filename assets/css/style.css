@@ -201,3 +201,18 @@ footer.redes img:hover {
   margin-top: 60px;
   padding-bottom: 50px;
 }
+
+@media (max-width: 1024px) {
+  .name-tag {
+    left: 100px;
+  }
+}
+
+@media (max-width: 550px) {
+  .yolo {
+    display: none;
+  }
+  .name-tag {
+    top: 290px;
+  }
+}
